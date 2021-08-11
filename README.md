@@ -1,2 +1,2 @@
 # hola-mundo
-Primer programa
+Primera página en HTML y CSS (sin Javascript).
